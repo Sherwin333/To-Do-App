@@ -12,7 +12,7 @@ Animated splash screen
 
 Modern UI with Jetpack Compose
 
-Dependencies ⚡
+Dependencies 
 
 Jetpack Compose – UI toolkit
 
